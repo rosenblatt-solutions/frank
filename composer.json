@@ -1,0 +1,21 @@
+{
+    "name": "rosenblatt-solutions/frank",
+    "description": "PHP ML Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RosenblattSolutions\\Frank\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksei Nechaev",
+            "email": "omfg.rus@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.1"
+    }
+}
