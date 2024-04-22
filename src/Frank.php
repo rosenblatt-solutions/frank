@@ -10,4 +10,9 @@ final class Frank
     {
         return 'It works!';
     }
+
+    public function test2(): string
+    {
+        return 'It updated!';
+    }
 }
